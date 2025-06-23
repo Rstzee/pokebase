@@ -22,7 +22,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Rstzee/pokebase/
    cd pokebase
    ```
 
@@ -91,13 +91,6 @@ pokebase/
 2. **Filter by Generation**: Click on the generation tabs to view Pokémon from specific generations
 3. **View Details**: Click on any Pokémon card to view detailed information in a modal
 
-## 🔧 Configuration
-
-### Vite Configuration
-The project uses Vite for fast development and building. Configuration can be found in `vite.config.js`.
-
-### ESLint Configuration
-Code quality is maintained using ESLint. Rules are configured in `eslint.config.js`.
 
 ## 📱 Responsive Design
 
@@ -106,62 +99,20 @@ The application is fully responsive and works on:
 - 📱 Tablets (768px and up)
 - 💻 Desktop computers (1024px and up)
 
-## 🚀 Deployment
-
-### Build for Production
-
-1. **Create production build**
-   ```bash
-   npm run build
-   ```
-
-2. **Test production build locally**
-   ```bash
-   npm run preview
-   ```
-
-The built files will be in the `dist/` directory, ready for deployment to any static hosting service.
-
-### Deployment Options
-
-- **[Vercel](https://vercel.com/)** - Zero-config deployment
-- **[Netlify](https://netlify.com/)** - Git-based deployment
-- **[GitHub Pages](https://pages.github.com/)** - Free hosting for public repositories
 
 ## 🤝 Contributing
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+2. Create a feature branch 
+3. Commit your changes 
+4. Push to the branch 
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🎨 Screenshots
-
-*Add screenshots of your application here*
-
-## 🐛 Known Issues
-
-- Search functionality may need debouncing for better performance
-- Consider adding pagination for large datasets
-
-## 🔮 Future Enhancements
-
-- [ ] Add Pokémon favorites functionality
-- [ ] Implement advanced filtering options
-- [ ] Add Pokémon comparison feature
-- [ ] Include Pokémon stats and abilities
-- [ ] Add dark/light theme toggle
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - tolentinorusteejay@gmail.com
 
-Project Link: [https://github.com/yourusername/pokebase](https://github.com/yourusername/pokebase)
+Project Link: (https://github.com/rstzee/pokebase)
 
 ---
 
